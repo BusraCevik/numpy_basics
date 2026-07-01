@@ -85,7 +85,7 @@ print("Combined elements:", word)
 # Notes
 # ==================================================
 '''
-Notes:
+ Notes:
 
 1. Homogeneous Data & Upcasting:
    - All elements in a NumPy array must have the identical data type (dtype).
